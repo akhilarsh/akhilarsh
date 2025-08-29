@@ -33,6 +33,16 @@ I thrive in collaborative environments where continuous learning and innovation 
 
 ---
 
+### 📌 Featured Projects
+
+- [**ts-template**](https://github.com/akhilarsh/ts-template): TypeScript repository template
+- [**linear-sdk**](https://github.com/akhilarsh/linear-sdk): Integrations for reporting with Linear SDK
+- [**github-release-digest**](https://github.com/akhilarsh/github-release-digest): Automated GitHub release summaries for Slack
+- [**link-checker**](https://github.com/akhilarsh/link-checker): Check broken links on web pages
+- [**pactum-cucumber-boilerplate**](https://github.com/pactumjs/pactum-cucumber-boilerplate): Boilerplate for REST API tests with Cucumber & Pactum
+
+---
+
 ### 🛠️ Tech Stack & Tools
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -76,24 +86,6 @@ I thrive in collaborative environments where continuous learning and innovation 
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akhilarsh&count_private=true&include_all_commits=true&show_icons=true&theme=radical" alt="GitHub Profile Summary" />
-</p>
-
----
-
-### 📌 Featured Projects
-
-- [**ts-template**](https://github.com/akhilarsh/ts-template): TypeScript repository template
-- [**linear-sdk**](https://github.com/akhilarsh/linear-sdk): Integrations for reporting with Linear SDK
-- [**github-release-digest**](https://github.com/akhilarsh/github-release-digest): Automated GitHub release summaries for Slack
-- [**link-checker**](https://github.com/akhilarsh/link-checker): Check broken links on web pages
-- [**pactum-cucumber-boilerplate**](https://github.com/pactumjs/pactum-cucumber-boilerplate): Boilerplate for REST API tests with Cucumber & Pactum
-
----
-
 ### 🖋️ Recent Writings
 
 See my thoughts on test automation, QA leadership, and more at [Medium](https://medium.com/@akhilarsh).
@@ -103,3 +95,5 @@ See my thoughts on test automation, QA leadership, and more at [Medium](https://
 ### 🌱 Let's Connect!
 
 Feel free to reach out for collaboration, consulting, or just to share thoughts on quality engineering and automation!
+
+---
