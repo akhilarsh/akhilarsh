@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ### 🚀 About Me
 
-💡 Passionate QA Engineering Manager with 14+ years of experience leading cross-functional teams, building robust automation frameworks, and driving strategic quality initiatives. I empower organizations to build reliable, secure, and scalable products.
+💡 Passionate QA Engineering Manager with 15+ years of experience leading cross-functional teams, building robust automation frameworks, and driving strategic quality initiatives. I empower organizations to build reliable, secure, and scalable products.
 
 - **Expertise:** Test Automation, QA Strategy, Release Management, Security Program Management, CI/CD, Tooling
 - **Domains:** FinTech, CDP, Insurance, E-Commerce, MarTech
