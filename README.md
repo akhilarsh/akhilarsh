@@ -40,7 +40,7 @@ I thrive in collaborative environments where continuous learning and innovation 
 - [**github-release-digest**](https://github.com/akhilarsh/github-release-digest): Automated GitHub release summaries for Slack
 - [**link-checker**](https://github.com/akhilarsh/link-checker): Check broken links on web pages
 - [**pactum-cucumber-boilerplate**](https://github.com/pactumjs/pactum-cucumber-boilerplate): Boilerplate for REST API tests with Cucumber & Pactum
-- [**ecommerce_dwh**](https://github.com/akhilarsh/ecommerce_dwh):E-commerce Data Warehouse
+- [**ecommerce_dwh**](https://github.com/akhilarsh/ecommerce_dwh):Python framework for building a multi-channel retail e-commerce data warehouse.
 
 ---
 
